@@ -1,5 +1,5 @@
 {
-  "versao": "1.7.1",
-  "notas": "Novidades 1.7.1: novo box Mercado Livre Live (agora 4 boxes); botao Remover em produtos, cupons e programacao gravada; botoes Suporte, Alterar senha e Sair; encerramento com tela de ENCERRAMENTO DE LIVE (15s) nas lives agendadas.",
-  "instalador": "https://github.com/arenaontv/studiocast-updates/releases/download/v1.7.1/StudioCast-Setup-1.7.1.exe"
+  "versao": "1.7.2",
+  "notas": "Ajuste dos overlays (GC, reprise e intervalo) para a area segura do celular: logo e selos nao sao mais cortados nem ampliados na visualizacao mobile do Instagram.",
+  "instalador": "https://github.com/arenaontv/studiocast-updates/releases/download/v1.7.2/StudioCast-Setup-1.7.2.exe"
 }
