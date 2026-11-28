@@ -1,1 +1,5 @@
-{"versao":"1.7.0","notas":"Cada box (1, 2 e 3) agora é independente: catálogo, cupons, carrossel, intervalo e reprise próprios, com 3 OBS. Login centralizado e configuração da senha do OBS pela tela.","instalador":"https://github.com/arenaontv/studiocast-updates/releases/download/v1.7.0/StudioCast-Setup-1.7.0.exe"}
+{
+  "versao": "1.7.1",
+  "notas": "Novidades 1.7.1: novo box Mercado Livre Live (agora 4 boxes); botao Remover em produtos, cupons e programacao gravada; botoes Suporte, Alterar senha e Sair; encerramento com tela de ENCERRAMENTO DE LIVE (15s) nas lives agendadas.",
+  "instalador": "https://github.com/arenaontv/studiocast-updates/releases/download/v1.7.1/StudioCast-Setup-1.7.1.exe"
+}
